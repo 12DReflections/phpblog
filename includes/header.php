@@ -1,3 +1,6 @@
+<?php include 'config/config.php'?>
+<?php include 'libraries/database.php'?>
+<?php include 'helpers/format_helper.php';?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -5,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Welcome To PHPLoversBlog</title>
+    <title>If but for a Moment</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -30,8 +33,8 @@
       <div class="blog-header">
 	<div class="logo" ><img src="images/logo.png"/></div>
 
-      <h1 class="blog-title">PHP Lovers Blog</h1>
-        <p class="lead blog-description">PHP News, Tutorials, Videos and More</p>
+      <h1 class="blog-title">If but for a Moment</h1>
+        <p class="lead blog-description">A Formal Structure of ideas relating to Self, World and the blur of focus in between</p>
       </div>
 
       <div class="row">
